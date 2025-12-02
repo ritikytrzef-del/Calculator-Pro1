@@ -1,0 +1,5 @@
+{
+  "name": "Calculator Pro AI",
+  "description": "A next-generation calculator fusing a robust scientific keypad with Gemini-powered natural language problem solving. Features real-time history, smart unit conversions, and step-by-step AI math explanations.",
+  "requestFramePermissions": []
+}
